@@ -1,9 +1,5 @@
 # League Of Legends Language Copier
-- Get 
-
-# Tutorial [Not By Me]
-- Change to JP : https://www.youtube.com/watch?v=M0VZUnWKz90
-- Demo : https://www.youtube.com/watch?v=zN0CKyWdYmQ
+- Extract League Of Legends Language
 
 # Requirement
 - This app required [.NET 6 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) to be installed on your computer to be able to run
